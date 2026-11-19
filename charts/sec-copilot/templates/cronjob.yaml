@@ -1,0 +1,25 @@
+{{- if .Values.batch.enabled }}
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: {{ .Release.Name }}-batch
+spec:
+  schedule: {{ .Values.batch.schedule | quote }}
+  concurrencyPolicy: Forbid
+  jobTemplate:
+    spec:
+      backoffLimit: 2
+      template:
+        spec:
+          restartPolicy: Never
+          containers:
+            - name: batch
+              image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
+              imagePullPolicy: {{ .Values.image.pullPolicy }}
+              command: ["python", "-m", "scripts.batch", "/data/incoming.jsonl", "/data/classified.jsonl"]
+              {{- include "sec.env" . | nindent 14 }}
+              volumeMounts: [{name: data, mountPath: /data}]
+          volumes:
+            - name: data
+              persistentVolumeClaim: {claimName: {{ .Release.Name }}-data}
+{{- end }}

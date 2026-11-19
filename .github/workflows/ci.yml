@@ -1,0 +1,51 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:   # run by hand to include the LLM evaluation
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements-dev.txt
+      - run: ruff check .
+      - run: pytest -q
+
+  build:
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: docker build -t sec-copilot:${{ github.sha }} .
+      - uses: azure/setup-helm@v4
+      - run: helm lint charts/sec-copilot
+
+  evaluate:
+    if: github.event_name == 'workflow_dispatch'
+    needs: test
+    runs-on: ubuntu-latest
+    services:
+      qdrant:
+        image: qdrant/qdrant
+        ports: ["6333:6333"]
+    env:
+      LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+      LLM_MODEL: ${{ vars.LLM_MODEL }}
+      LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+      LANGFUSE_PUBLIC_KEY: ${{ secrets.LANGFUSE_PUBLIC_KEY }}
+      LANGFUSE_SECRET_KEY: ${{ secrets.LANGFUSE_SECRET_KEY }}
+      LANGFUSE_HOST: ${{ vars.LANGFUSE_HOST }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -r requirements.txt
+      - run: python -m scripts.load_rules
+      - run: python -m scripts.evaluate --min-accuracy 0.85
+      - run: cat eval_results.md >> "$GITHUB_STEP_SUMMARY"

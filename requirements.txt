@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+openai
+langfuse
+qdrant-client
+fastembed
+tenacity

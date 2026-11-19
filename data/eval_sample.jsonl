@@ -1,0 +1,5 @@
+{"note": "Empfänger nicht angetroffen, Paket bei Nachbar Nr. 12 abgegeben", "category": "recipient_absent", "urgency": "low"}
+{"note": "customs docs missing, pkg held at hub LEJ", "category": "customs_hold", "urgency": "high"}
+{"note": "Hausnr fehlt, Straße existiert 2x in Bonn", "category": "address_issue", "urgency": "medium"}
+{"note": "box crushed, liquid leaking, not delivered", "category": "damaged", "urgency": "high"}
+{"note": "Annahme verweigert - Kunde sagt falsche Bestellung", "category": "refused", "urgency": "low"}

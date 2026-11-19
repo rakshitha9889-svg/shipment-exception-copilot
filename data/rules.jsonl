@@ -1,0 +1,10 @@
+{"id": "R01", "category": "recipient_absent", "text": "Recipient not at home: leave with a neighbour only if the sender allows it, otherwise take the parcel to the nearest pickup point and send the recipient a notification card."}
+{"id": "R02", "category": "recipient_absent", "text": "Second failed delivery attempt: hold at the pickup point for 7 days, then return to sender."}
+{"id": "R03", "category": "address_issue", "text": "Address incomplete or unreadable: hold at the depot and contact the recipient by phone or email to confirm the address within 24 hours."}
+{"id": "R04", "category": "address_issue", "text": "Recipient moved or unknown at address: return to depot and check for a forwarding address before returning to sender."}
+{"id": "R05", "category": "customs_hold", "text": "Held at customs because documents are missing: request the commercial invoice from the sender within 24 hours; urgency high."}
+{"id": "R06", "category": "customs_hold", "text": "Import duties unpaid: notify the recipient with a payment link; hold the parcel for up to 14 days."}
+{"id": "R07", "category": "damaged", "text": "Parcel visibly damaged: photograph the damage, do not deliver if contents are exposed, open a damage claim and inform the sender."}
+{"id": "R08", "category": "refused", "text": "Recipient refused the parcel: record the reason and start the return-to-sender process."}
+{"id": "R09", "category": "delay", "text": "Delay due to weather, traffic or vehicle breakdown: reschedule for the next delivery day and send the recipient an updated time window."}
+{"id": "R10", "category": "delay", "text": "Parcel missed its connection at the hub: re-route on the next available line haul and flag it if the delivery promise is at risk."}
