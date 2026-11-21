@@ -1,0 +1,108 @@
+{"note": "Schneefall Schwarzwald, Schneeketten nötig, erhebliche Verspätung", "category": "delay", "urgency": "medium"}
+{"note": "customer not at home, Nachbar 3.OG nimmt nicht an", "category": "recipient_absent", "urgency": "low"}
+{"note": "scanner touchscreen kaputt restart needed", "category": "other", "urgency": "low"}
+{"note": "Nass vom Regen, Etikett weich, barcode kaum lesbar", "category": "damaged", "urgency": "medium"}
+{"note": "Flasche innen zerbrochen, Karton weich & riecht süßlich", "category": "damaged", "urgency": "high"}
+{"note": "Consignee refused to pay customs fee of 42.50 EUR, returning to sender", "category": "refused", "urgency": "high"}
+{"note": "Zugverpätung Güterverkehr, Container verspätet im Depot Nürnberg", "category": "delay", "urgency": "low"}
+{"note": "Held customs FRA, food item requires veterinary check", "category": "customs_hold", "urgency": "high"}
+{"note": "barcode scuffed hand typed tracking nr manually", "category": "other", "urgency": "medium"}
+{"note": "Empf. umgezogen, Nachbar sagt neue Adr unbekannt", "category": "address_issue", "urgency": "medium"}
+{"note": "Kundin weigert sich zu zahlen NN 45,50 Euro zu teuer.", "category": "refused", "urgency": "medium"}
+{"note": "Polizeiabsperrung wg Bombenfund, Strasse voll gesperrt", "category": "other", "urgency": "high"}
+{"note": "Zoll clearing pending: invoice amount unclear, need purchase receipt from Empf", "category": "customs_hold", "urgency": "high"}
+{"note": "Annahme verw., falscher Name auf Paket.", "category": "refused", "urgency": "low"}
+{"note": "Umreifungsband gerissen, Pkt öffnet sich fast", "category": "damaged", "urgency": "medium"}
+{"note": "Straße unvollständig, B54 Höhe Siegen, kein Geb.", "category": "address_issue", "urgency": "medium"}
+{"note": "Refused - Kd hat keine cash fuer COD payment.", "category": "refused", "urgency": "medium"}
+{"note": "no response at gate, calling phone failed, left card", "category": "recipient_absent", "urgency": "low"}
+{"note": "door locked, nobody home, Pkt storage Spandau", "category": "recipient_absent", "urgency": "low"}
+{"note": "Empf. abwesend, Paket hinter Garage abgelegt (Wunschort)", "category": "recipient_absent", "urgency": "low"}
+{"note": "no one home, tried calling rcpt no answer", "category": "recipient_absent", "urgency": "low"}
+{"note": "Pkt hat Delle, Empf. wollte Fotos machen vor Unterschrift", "category": "damaged", "urgency": "low"}
+{"note": "Pkt stinkt stark nach Chemie, Depotleiter bittet um Überprüfung", "category": "other", "urgency": "high"}
+{"note": "Katze im Laderaum erwischt, Tourverzögerung ca 20 Min", "category": "other", "urgency": "low"}
+{"note": "heavy traffic A9, delivery window missed, reschedule tmrw", "category": "delay", "urgency": "medium"}
+{"note": "Empf. refused pkg, return to sender directly.", "category": "refused", "urgency": "low"}
+{"note": "Baustelle blockiert Durchfahrt, kein Reinkommen möglich", "category": "delay", "urgency": "medium"}
+{"note": "Adr doppelt im System, falsche Stadt zugeteilt", "category": "address_issue", "urgency": "medium"}
+{"note": "Gewerbegebiet Hallennr fehlt, Tor 1 bis 12", "category": "address_issue", "urgency": "medium"}
+{"note": "flight delayed into FRA hub, express delivery postponed", "category": "delay", "urgency": "low"}
+{"note": "Customs hold in CGN, Empfänger notification sent via SMS", "category": "customs_hold", "urgency": "high"}
+{"note": "Empf Name fehlt auf Klingel, EG links ohne Name", "category": "address_issue", "urgency": "medium"}
+{"note": "pkg completely destroyed, contents hanging out, returned to sender", "category": "damaged", "urgency": "high"}
+{"note": "Unfall B27, van stuck in traffic, ETA delay", "category": "delay", "urgency": "low"}
+{"note": "box split open at seam, missing top tape", "category": "damaged", "urgency": "high"}
+{"note": "Importabgaben verweigert, Pkt geht zrück an Absender", "category": "refused", "urgency": "high"}
+{"note": "Nachbar verweigert Paketannahme wg Streit mit Empf", "category": "other", "urgency": "low"}
+{"note": "Systemabsturz Scanner, 15 Pkt manuell erfasst", "category": "other", "urgency": "medium"}
+{"note": "PLZ 80331 passt nicht zu Stuttgarter Str", "category": "address_issue", "urgency": "medium"}
+{"note": "Empf verweigert, Ware verspätet eingetroffen.", "category": "refused", "urgency": "low"}
+{"note": "Pkt wet & soft, barcode not scannable, kept in van", "category": "damaged", "urgency": "high"}
+{"note": "Adresse ist Baustelle, kein Briefkasten oder Hausnr", "category": "address_issue", "urgency": "medium"}
+{"note": "Customs rejected declaration, HS code 8471 invalid", "category": "customs_hold", "urgency": "high"}
+{"note": "Refused, customer wants refund not replacement.", "category": "refused", "urgency": "low"}
+{"note": "Annahme verweigert laut Empf falscher Inhalt.", "category": "refused", "urgency": "low"}
+{"note": "Fehlende Proforma Rechnung, liegt zzt beim Zollamt BER", "category": "customs_hold", "urgency": "high"}
+{"note": "Schaumstoff ragt aus Verpackung, Folie zerrissen", "category": "damaged", "urgency": "medium"}
+{"note": "Sendung gestoppt Zoll FRA, Inhalt nicht eindeutig deklariert", "category": "customs_hold", "urgency": "high"}
+{"note": "Wespennest direkt am Briefkasten, Abbruch wg Stichgefahr", "category": "other", "urgency": "medium"}
+{"note": "Sperrung B10 wg Unfall, Tourverzögerung ca 2h", "category": "delay", "urgency": "low"}
+{"note": "Held at BER customs gateway: missing sender tax ID", "category": "customs_hold", "urgency": "high"}
+{"note": "2. zustellversuch fehlgeschlagen, geht zurück ins ZS Berlin-Süd", "category": "recipient_absent", "urgency": "medium"}
+{"note": "Empfänger für 3 Wochen abwesend laut Aushang", "category": "recipient_absent", "urgency": "medium"}
+{"note": "liquid leaking from parcel, smells like perfume, isolated at depot", "category": "damaged", "urgency": "high"}
+{"note": "heavy accident A3 highway route delayed 2h", "category": "delay", "urgency": "low"}
+{"note": "tried delivery 11:30, nobody home, notice slip left", "category": "recipient_absent", "urgency": "low"}
+{"note": "company name missing on label, building has 50 offices", "category": "address_issue", "urgency": "medium"}
+{"note": "Empf. verweigert Annahme, Annahmefrist abgelaufen meint er.", "category": "refused", "urgency": "low"}
+{"note": "Karton zusammengedrückt, Empf nicht da, Benachrichtigt trotz Schaden", "category": "damaged", "urgency": "medium"}
+{"note": "Klingel reagiert nicht, Empfänger scheinbar nicht im Haus", "category": "recipient_absent", "urgency": "low"}
+{"note": "Hausnummer 14B nicht auffindbar, nur 14A und 14C vorhanden", "category": "address_issue", "urgency": "medium"}
+{"note": "invalid street number 0, please verify with sender", "category": "address_issue", "urgency": "medium"}
+{"note": "Str. existiert nicht in 50667 Köln, PLZ evtl 50668?", "category": "address_issue", "urgency": "medium"}
+{"note": "Duty unpaid by rcpt EUR 12.80, Zollstopp aktiv", "category": "customs_hold", "urgency": "high"}
+{"note": "Zollguteingang LEJ - EORI Nummer vom Empf. ungültig", "category": "customs_hold", "urgency": "high"}
+{"note": "driver max hours reached, remaining pkgs returning to base", "category": "delay", "urgency": "medium"}
+{"note": "Knd verweigert postident und unterschrift.", "category": "refused", "urgency": "low"}
+{"note": "train delay on rail freight corridor, delayed arrival", "category": "delay", "urgency": "low"}
+{"note": "police check on Autobahn delay approx 40m", "category": "delay", "urgency": "low"}
+{"note": "Baustelle A8, langer Stau, Resttour abgebrochen", "category": "delay", "urgency": "medium"}
+{"note": "Clearance exception at HUB FRA: EORI No needed from receiver", "category": "customs_hold", "urgency": "high"}
+{"note": "outer carton torn, contents visible, rcpt refused sign", "category": "damaged", "urgency": "high"}
+{"note": "office closed permanently company moved away", "category": "address_issue", "urgency": "medium"}
+{"note": "pkg arrived late from sorting center, delivery postponed tmrw", "category": "delay", "urgency": "medium"}
+{"note": "Hausmeister verweigert Annahme für Mieter top 4.", "category": "refused", "urgency": "low"}
+{"note": "recipient not at home, redirected to local dropoff point", "category": "recipient_absent", "urgency": "low"}
+{"note": "Hinterhaus nicht zugänglich, kein Hinweis auf Top-Nr", "category": "address_issue", "urgency": "medium"}
+{"note": "Fr. Weber verweigert Annahme, hat widerrufen.", "category": "refused", "urgency": "low"}
+{"note": "Haustür verschlossen, Empfänger reagiert nicht auf Anruf", "category": "recipient_absent", "urgency": "low"}
+{"note": "heavy snow in Erzgebirge, Tour abgebrochen wg Safety", "category": "delay", "urgency": "medium"}
+{"note": "outer box flattened, item inside broken, refused by customer", "category": "refused", "urgency": "high"}
+{"note": "Customs inspect: Pkt Beschädigt, Wareninhalt vom Zoll geprüft", "category": "customs_hold", "urgency": "high"}
+{"note": "Empfängerin verweigert, Karton kaputt.", "category": "refused", "urgency": "medium"}
+{"note": "Pkt beim Zoll wg. Pflanzenschutzbestimmungen festgehalten", "category": "customs_hold", "urgency": "high"}
+{"note": "Rcpt verweigert Annahme, pkg crushed.", "category": "refused", "urgency": "medium"}
+{"note": "gate code changed need clearance from dispatch", "category": "other", "urgency": "medium"}
+{"note": "wrong street name on shipping label, recipient contacted?", "category": "address_issue", "urgency": "medium"}
+{"note": "Klingel ohne Namen, Empf. nicht erreichbar per Telefon", "category": "recipient_absent", "urgency": "low"}
+{"note": "Value misdeclared on CN22, customs requesting proof of purchase", "category": "customs_hold", "urgency": "high"}
+{"note": "high volume peak day, route overloaded, rest postponed", "category": "delay", "urgency": "medium"}
+{"note": "Zeitüberschreitung Fahrzeit, Restpakete gehen zurück ins Depot", "category": "delay", "urgency": "medium"}
+{"note": "postcode mismatch, delivery city says Hamburg but PLZ is Berlin", "category": "address_issue", "urgency": "medium"}
+{"note": "Loch im Karton ca 5cm, Ware schaut raus aber intakt", "category": "damaged", "urgency": "low"}
+{"note": "nobody at business address, store locked", "category": "recipient_absent", "urgency": "low"}
+{"note": "hub delay in Leipzig, linehaul arrived 3h late", "category": "delay", "urgency": "low"}
+{"note": "Store manager refused delivery, wrong address on box.", "category": "refused", "urgency": "medium"}
+{"note": "box open on side, Klebeband nachgeklebt im ZSP, pkg intact now", "category": "damaged", "urgency": "low"}
+{"note": "road blocked due to construction, detour added 45 mins", "category": "delay", "urgency": "low"}
+{"note": "recipient nicht da, Pkt hinterlegt bei Nachbar Hr Kovač", "category": "recipient_absent", "urgency": "low"}
+{"note": "Stadtfest im Zentrum, gesamte Innenstadt gesperrt", "category": "delay", "urgency": "medium"}
+{"note": "recipient unavailable, no safe place to leave pkg", "category": "recipient_absent", "urgency": "low"}
+{"note": "Plastikbehälter gebrochen, Flüssigkeit läuft aus Karton", "category": "damaged", "urgency": "high"}
+{"note": "nobody answering door at apt 4, card left", "category": "recipient_absent", "urgency": "low"}
+{"note": "Empf. verweigert: nicht mehr benötigt.", "category": "refused", "urgency": "low"}
+{"note": "Strasse umbenannt, alte Bezeichng auf Paket", "category": "address_issue", "urgency": "low"}
+{"note": "Schlüssel im Tourbus eingeschlossen, ADAC gerufen", "category": "other", "urgency": "medium"}
+{"note": "pkg loose on shelf not linked to manifest list", "category": "other", "urgency": "medium"}
+{"note": "label printed twice duplicate barcode scan error", "category": "other", "urgency": "low"}
