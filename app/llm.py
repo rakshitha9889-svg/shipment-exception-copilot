@@ -45,7 +45,7 @@ def _call(provider: Provider, messages: list[dict]) -> LLMOutput:
         messages=messages,
         response_format=LLMOutput,
         temperature=0,
-        timeout=20,
+        timeout=60,
     )
     parsed = resp.choices[0].message.parsed
     if parsed is None:
