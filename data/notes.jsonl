@@ -1,0 +1,280 @@
+{"note": "scanner batt dead manually logged deliv time", "generated_for": "other"}
+{"note": "Hausnr missing, building is a large shopping mall", "generated_for": "address_issue"}
+{"note": "security guard refused access without plant ID badge", "generated_for": "other"}
+{"note": "heavy crush damage, Ware kaputt, retoure to hub Stuttgart", "generated_for": "damaged"}
+{"note": "Customer refused Pkt, look damaged.", "generated_for": "refused"}
+{"note": "Baustelle blockiert Durchfahrt, kein Reinkommen möglich", "generated_for": "other"}
+{"note": "2nd try failed, recipient nicht da, card left", "generated_for": "recipient_absent"}
+{"note": "Verpackung komplett zerrissen, fehlen evt Teile", "generated_for": "damaged"}
+{"note": "recipient nicht da, Pkt hinterlegt bei Nachbar Hr Kovač", "generated_for": "recipient_absent"}
+{"note": "access road closed by police, late delivery expected", "generated_for": "delay"}
+{"note": "nobody answering door at apt 4, card left", "generated_for": "recipient_absent"}
+{"note": "mechanical failure on delivery truck, waiting for tow", "generated_for": "delay"}
+{"note": "Unwetterwarnung Kat 2, Sicherheitsstopp f 2 Std", "generated_for": "delay"}
+{"note": "train delay on rail freight corridor, delayed arrival", "generated_for": "delay"}
+{"note": "pkg completely destroyed, contents hanging out, returned to sender", "generated_for": "damaged"}
+{"note": "Niemand anzutreffen, Pkt geht an Paketshop Bäcker Müller", "generated_for": "recipient_absent"}
+{"note": "Empf. abwesend, Paket hinter Garage abgelegt (Wunschort)", "generated_for": "recipient_absent"}
+{"note": "Receiver requested customs deferred payment, pending approval", "generated_for": "customs_hold"}
+{"note": "outer box flattened, item inside broken, refused by customer", "generated_for": "damaged"}
+{"note": "Rcpt refused delivery, claims ordered from competitor.", "generated_for": "refused"}
+{"note": "recipient away on holiday per neighbour, pkg to shop", "generated_for": "recipient_absent"}
+{"note": "Schranke defekt, Pförtner lässt niemanden aufs Werksgelände", "generated_for": "other"}
+{"note": "Fr. Weber 2.OG macht nicht auf, Karte im Kasten", "generated_for": "recipient_absent"}
+{"note": "Rcpt verweigert Annahme, pkg crushed.", "generated_for": "refused"}
+{"note": "Rcpt refused pkg, demands driver unpack first.", "generated_for": "refused"}
+{"note": "Gewerbegebiet Hallennr fehlt, Tor 1 bis 12", "generated_for": "address_issue"}
+{"note": "Zugverpätung Güterverkehr, Container verspätet im Depot Nürnberg", "generated_for": "delay"}
+{"note": "Hausmeister verweigert Annahme für Mieter top 4.", "generated_for": "refused"}
+{"note": "Annahme verw., falscher Name auf Paket.", "generated_for": "refused"}
+{"note": "crushed corner, delivered to nr 8 with damage note", "generated_for": "damaged"}
+{"note": "wet package due to rain, barcode scannable, delivered to porch", "generated_for": "damaged"}
+{"note": "Klingel ohne Namen, Empf. nicht erreichbar per Telefon", "generated_for": "recipient_absent"}
+{"note": "Schlüssel im Tourbus eingeschlossen, ADAC gerufen", "generated_for": "other"}
+{"note": "hazmat spill nearby area evacuated by police", "generated_for": "other"}
+{"note": "Pkt fälschlicherweise als Sperrgut im System erfasst", "generated_for": "other"}
+{"note": "another pkg leaked on this parcel needs cleanup", "generated_for": "other"}
+{"note": "rcpt absent, Paket geht to Filiale Stuttgart Hbf", "generated_for": "recipient_absent"}
+{"note": "door locked, nobody home, Pkt storage Spandau", "generated_for": "recipient_absent"}
+{"note": "Pkt zu spät gescannt im Depot Berlin-Süd, Auslieferung morgen", "generated_for": "delay"}
+{"note": "Pkt beim Zoll wg. Pflanzenschutzbestimmungen festgehalten", "generated_for": "customs_hold"}
+{"note": "Empf. umgezogen, Nachbar sagt neue Adr unbekannt", "generated_for": "address_issue"}
+{"note": "Rcpt refused pkg, box leaking liquid.", "generated_for": "refused"}
+{"note": "Held by customs FRA - restricted item verification needed", "generated_for": "customs_hold"}
+{"note": "PLZ 80331 passt nicht zu Stuttgarter Str", "generated_for": "address_issue"}
+{"note": "Karton offen, Klebeband gelöst, Empf meint Inhalt unvollständig", "generated_for": "damaged"}
+{"note": "elevator stuck floor 2 access blocked completely", "generated_for": "other"}
+{"note": "heavy wet stain on bottom, pkg falling apart", "generated_for": "damaged"}
+{"note": "outer carton torn, contents visible, rcpt refused sign", "generated_for": "damaged"}
+{"note": "police check on Autobahn delay approx 40m", "generated_for": "other"}
+{"note": "Straße unvollständig, B54 Höhe Siegen, kein Geb.", "generated_for": "address_issue"}
+{"note": "Annahme verweigert, rcpt cancelled online already.", "generated_for": "refused"}
+{"note": "Katze im Laderaum erwischt, Tourverzögerung ca 20 Min", "generated_for": "other"}
+{"note": "Value misdeclared on CN22, customs requesting proof of purchase", "generated_for": "customs_hold"}
+{"note": "heavy accident A3 highway route delayed 2h", "generated_for": "other"}
+{"note": "Customs inspect: Pkt Beschädigt, Wareninhalt vom Zoll geprüft", "generated_for": "customs_hold"}
+{"note": "Pkt hat Delle, Empf. wollte Fotos machen vor Unterschrift", "generated_for": "damaged"}
+{"note": "Unfall B27, van stuck in traffic, ETA delay", "generated_for": "delay"}
+{"note": "2. zustellversuch fehlgeschlagen, geht zurück ins ZS Berlin-Süd", "generated_for": "recipient_absent"}
+{"note": "Reifenplatzer Transporter, Warten auf Pannendienst", "generated_for": "delay"}
+{"note": "missed delivery, dropoff at parcel locker 204", "generated_for": "recipient_absent"}
+{"note": "Refused, customer wants refund not replacement.", "generated_for": "refused"}
+{"note": "Held at BER customs gateway: missing sender tax ID", "generated_for": "customs_hold"}
+{"note": "Empf requested leave pkg in greenhouse behind house", "generated_for": "other"}
+{"note": "Duties and taxes unpaid, delivery on hold until payment cleared", "generated_for": "customs_hold"}
+{"note": "box torn at corner, Ware schaut raus, photo taken at dropoff", "generated_for": "damaged"}
+{"note": "Zoll clearing pending: invoice amount unclear, need purchase receipt from Empf", "generated_for": "customs_hold"}
+{"note": "pkg loose on shelf not linked to manifest list", "generated_for": "other"}
+{"note": "Karton eingedrückt an Ecke, Annahme verweigert durch Empf", "generated_for": "damaged"}
+{"note": "linehaul late, Depot München start delayed by 2h", "generated_for": "delay"}
+{"note": "rcpt not home, scanner battery low but recorded absent", "generated_for": "recipient_absent"}
+{"note": "wrong house number, 120 doesn't exist on Westendstr", "generated_for": "address_issue"}
+{"note": "Import hold MUC airport - missing FDA certificate for medical goods", "generated_for": "customs_hold"}
+{"note": "Empf Name fehlt auf Klingel, EG links ohne Name", "generated_for": "address_issue"}
+{"note": "Ecke aufgerissen, Ware schaut raus, Annahme abgelehnt", "generated_for": "damaged"}
+{"note": "Empf. zahlt EinfuhrSt nicht, Annahmevorgang abgebrochen", "generated_for": "customs_hold"}
+{"note": "sorting glitch at Depot 12 wrong code attached", "generated_for": "other"}
+{"note": "Klingel reagiert nicht, Empfänger scheinbar nicht im Haus", "generated_for": "recipient_absent"}
+{"note": "E. n. da, Nachbar Nr 8b nimmt auch nix an", "generated_for": "recipient_absent"}
+{"note": "vehicle technical issue, replacement van dispatched", "generated_for": "delay"}
+{"note": "item broken inside, Empf. macht damage report am MDE", "generated_for": "damaged"}
+{"note": "High volume im Hub, express shipment delayed 1 day", "generated_for": "delay"}
+{"note": "Pkt wet & soft, barcode not scannable, kept in van", "generated_for": "damaged"}
+{"note": "scanner touchscreen kaputt restart needed", "generated_for": "other"}
+{"note": "pkg stinks nach Chemie, liquid leaking, stop delivery depot HH", "generated_for": "damaged"}
+{"note": "barcode scuffed hand typed tracking nr manually", "generated_for": "other"}
+{"note": "high volume peak day, route overloaded, rest postponed", "generated_for": "delay"}
+{"note": "Wasserrohrbruch im Gebäude, Feuerwehr blockiert Zufahrt", "generated_for": "other"}
+{"note": "Holzkiste gesplittert, Sicherung defekt, Depot Köln", "generated_for": "damaged"}
+{"note": "nobody at business address, store locked", "generated_for": "recipient_absent"}
+{"note": "Empf. verreist laut Nachbar, Pkt zur Filiale Leipzig Ost", "generated_for": "recipient_absent"}
+{"note": "Klingel ohne Beschriftung, 4. OG nicht zuzuordnen", "generated_for": "address_issue"}
+{"note": "street name misspelled, scanner cannot geocode location", "generated_for": "address_issue"}
+{"note": "Customer refused pkg - no cash for COD 120 EUR.", "generated_for": "refused"}
+{"note": "office closed permanently company moved away", "generated_for": "other"}
+{"note": "Polizeiabsperrung wg Bombenfund, Strasse voll gesperrt", "generated_for": "other"}
+{"note": "Zollbeschlagnahme wegen Verdacht auf Markenfälschung, Akte 404", "generated_for": "customs_hold"}
+{"note": "Adr doppelt im System, falsche Stadt zugeteilt", "generated_for": "address_issue"}
+{"note": "Pkt beschädigt kdn will nicht annehmen.", "generated_for": "refused"}
+{"note": "Zollamt DUS verlangt Zahlungsnachweis vom Kunder, Benachrichtigungsschein im Kasten", "generated_for": "customs_hold"}
+{"note": "Wespennest direkt am Briefkasten, Abbruch wg Stichgefahr", "generated_for": "other"}
+{"note": "Rücksprache mit Zollstelle NRN nötig, Sicherheitsdatenblatt fehlt", "generated_for": "customs_hold"}
+{"note": "Plastikbehälter gebrochen, Flüssigkeit läuft aus Karton", "generated_for": "damaged"}
+{"note": "Warenwert über Freigrenze, Zollbeleg nicht lesbar", "generated_for": "customs_hold"}
+{"note": "hub delay in Leipzig, linehaul arrived 3h late", "generated_for": "delay"}
+{"note": "Zeitüberschreitung Fahrzeit, Restpakete gehen zurück ins Depot", "generated_for": "delay"}
+{"note": "Hohes Paketaufkommen nach Feiertag, nicht alle Pkt schaffbar", "generated_for": "delay"}
+{"note": "street name unreadable, moisture on label destroyed address", "generated_for": "address_issue"}
+{"note": "Sperrung B10 wg Unfall, Tourverzögerung ca 2h", "generated_for": "delay"}
+{"note": "nobody home, Karte in Briefkasten geworfen", "generated_for": "recipient_absent"}
+{"note": "no one home, tried calling rcpt no answer", "generated_for": "recipient_absent"}
+{"note": "new development site, street not in GPS maps yet", "generated_for": "address_issue"}
+{"note": "missing apartment / floor number in high rise", "generated_for": "address_issue"}
+{"note": "Fehlende Proforma Rechnung, liegt zzt beim Zollamt BER", "generated_for": "customs_hold"}
+{"note": "Clearance exception at HUB FRA: EORI No needed from receiver", "generated_for": "customs_hold"}
+{"note": "Knd wütend wegen Lieferzeit, nimmt nix an.", "generated_for": "refused"}
+{"note": "Rauch im Treppenhaus, Evakuierung vor Ort", "generated_for": "other"}
+{"note": "box open on side, Klebeband nachgeklebt im ZSP, pkg intact now", "generated_for": "damaged"}
+{"note": "Annahme verweigert kunde storniert.", "generated_for": "refused"}
+{"note": "Glätteunfall blockiert Zufahrt Gewerbegebiet, spätere Anlieferung", "generated_for": "delay"}
+{"note": "Customs inspection required, package opened by authorities", "generated_for": "customs_hold"}
+{"note": "flight delayed into FRA hub, express delivery postponed", "generated_for": "delay"}
+{"note": "techn problem with scanner, slow processing at Depot Stuttgart", "generated_for": "delay"}
+{"note": "Inhalt klappert laut, vermutlich Glasbruch. Pkt im ZSP gehalten", "generated_for": "damaged"}
+{"note": "Firma geschlossen, Fr. Braun im Urlaub? niemand öffnet", "generated_for": "recipient_absent"}
+{"note": "Pkt stark durchnässt, Riecht nach Öl, zurück zum Dep", "generated_for": "damaged"}
+{"note": "wrong street name on shipping label, recipient contacted?", "generated_for": "address_issue"}
+{"note": "Customs hold LEJ - Handelsrechnung missing, contact shipper", "generated_for": "customs_hold"}
+{"note": "Refused by wife, husband ordered without telling her.", "generated_for": "refused"}
+{"note": "Schneefall Schwarzwald, Schneeketten nötig, erhebliche Verspätung", "generated_for": "delay"}
+{"note": "duplicate street name in Munich, wrong district selected", "generated_for": "address_issue"}
+{"note": "no house number provided, main street too long for search", "generated_for": "address_issue"}
+{"note": "Recipient refused, said cancelled order yesterday.", "generated_for": "refused"}
+{"note": "accident on highway, gridlock, ETA extended by 2 hrs", "generated_for": "delay"}
+{"note": "keener da, Benachrichtigungskarte geklebt an Tür", "generated_for": "recipient_absent"}
+{"note": "Loch im Karton ca 5cm, Ware schaut raus aber intakt", "generated_for": "damaged"}
+{"note": "Sendung gestoppt Zoll FRA, Inhalt nicht eindeutig deklariert", "generated_for": "customs_hold"}
+{"note": "label printed twice duplicate barcode scan error", "generated_for": "other"}
+{"note": "Systemabsturz Scanner, 15 Pkt manuell erfasst", "generated_for": "other"}
+{"note": "box severely crushed, item inside rattles, ret to hub", "generated_for": "damaged"}
+{"note": "road blocked due to construction, detour added 45 mins", "generated_for": "delay"}
+{"note": "Unvollständige Zollanmeldung, Empf.-Telefonnummer ungültig", "generated_for": "customs_hold"}
+{"note": "Annahme verweigert laut Empf falscher Inhalt.", "generated_for": "refused"}
+{"note": "Hinterhaus nicht zugänglich, kein Hinweis auf Top-Nr", "generated_for": "address_issue"}
+{"note": "plastic wrap ripped, contents exposed but looks okay", "generated_for": "damaged"}
+{"note": "PLZ wrong, pkg assigned to wrong depot Nürnberg", "generated_for": "address_issue"}
+{"note": "recipient unavailable, no safe place to leave pkg", "generated_for": "recipient_absent"}
+{"note": "Ware beschädigt, Empf. nimmt trotzdem an mit Vermerk", "generated_for": "damaged"}
+{"note": "Klingelschild überklebt, Name nicht mehr lesbar", "generated_for": "address_issue"}
+{"note": "Nass vom Regen, Etikett weich, barcode kaum lesbar", "generated_for": "damaged"}
+{"note": "severe weather warning, all vans held at depot", "generated_for": "delay"}
+{"note": "Empfänger n. angetroffen, benachrichtigt 1. Versuch", "generated_for": "recipient_absent"}
+{"note": "Hub 44 Falschsortierung, aus Versehen im Tourbus gelandet", "generated_for": "other"}
+{"note": "heavy snow in Erzgebirge, Tour abgebrochen wg Safety", "generated_for": "delay"}
+{"note": "Held customs FRA, food item requires veterinary check", "generated_for": "customs_hold"}
+{"note": "Empfänger name not listed at given address, neighbor doesn't know", "generated_for": "address_issue"}
+{"note": "depot processing delayed due to conveyor belt breakdown", "generated_for": "delay"}
+{"note": "Zollkontrolle Hub STR: Gewichtsabweichung zu Frachtpapieren", "generated_for": "customs_hold"}
+{"note": "Empf nicht angetroffen, Zeitfenster knapp, 2. Versuch morgen", "generated_for": "delay"}
+{"note": "Rcpt refused, says didn't order from this shop.", "generated_for": "refused"}
+{"note": "no answer at intercom, neighbor refused to take it, rcpt absent", "generated_for": "recipient_absent"}
+{"note": "Niemand da Hausnr 42, Abgabe Postfiliale Friedrichstr", "generated_for": "recipient_absent"}
+{"note": "liquid leaking from parcel, smells like perfume, isolated at depot", "generated_for": "damaged"}
+{"note": "company name missing on label, building has 50 offices", "generated_for": "address_issue"}
+{"note": "parcel sent to wrong container at hub Leipzig", "generated_for": "other"}
+{"note": "Customs refused import - Annahme verweigert wg Zollkosten", "generated_for": "customs_hold"}
+{"note": "Drehkreuz klemmt, Security verweigert Eingang", "generated_for": "other"}
+{"note": "scanner system downtime at station, manual sorting slowed process", "generated_for": "delay"}
+{"note": "Pkt nass geworden durch undichte Decke im Hub FFM", "generated_for": "other"}
+{"note": "Starkregen u Hochwasser, manche Straßen nicht befahrbar, späte Zstlg", "generated_for": "delay"}
+{"note": "Pkt totally crushed, Inhalt defekt, rcpt refused delivery", "generated_for": "damaged"}
+{"note": "Awaiting customs clearance docs from shipper, held at CGN", "generated_for": "customs_hold"}
+{"note": "road closed due to local festival unable to reach str", "generated_for": "other"}
+{"note": "Annahme verw. Empfänger meint habe nix bestellt.", "generated_for": "refused"}
+{"note": "recipient not present, benachrichtigt laut System", "generated_for": "recipient_absent"}
+{"note": "tried delivery 11:30, nobody home, notice slip left", "generated_for": "recipient_absent"}
+{"note": "Empf 1. Versuch nicht da, 2. Versuch morgen", "generated_for": "recipient_absent"}
+{"note": "no response at gate, calling phone failed, left card", "generated_for": "recipient_absent"}
+{"note": "Paket gequetscht, Passt nicht in Packstation wegen Verformung", "generated_for": "damaged"}
+{"note": "Pkt zerdrückt unter schwerer Sendung, Retoure an Abs", "generated_for": "damaged"}
+{"note": "Refused - customer moved away according to new tenant.", "generated_for": "refused"}
+{"note": "Aufzug defekt im Hochhaus, Zeitverlust 30min, Zstlg verzögert", "generated_for": "delay"}
+{"note": "Einfuhrabgaben 18,20 EUR offen, Empf. nicht angetroffen, Zollauslieferung gestoppt", "generated_for": "customs_hold"}
+{"note": "Lkw Verspätung aus Frankfurt, Tourenstart verzögert", "generated_for": "delay"}
+{"note": "Empfänger für 3 Wochen abwesend laut Aushang", "generated_for": "other"}
+{"note": "Customs query: items quantity mismatch between manifest and invoice", "generated_for": "customs_hold"}
+{"note": "box split open at seam, missing top tape", "generated_for": "damaged"}
+{"note": "Recipient refused COD payment, wants invoice.", "generated_for": "refused"}
+{"note": "Karton zusammengedrückt, Empf nicht da, Benachrichtigt trotz Schaden", "generated_for": "damaged"}
+{"note": "hole in package, parts might be missing, kept at station", "generated_for": "damaged"}
+{"note": "pkg contains live insects depot mgr stopped deliv", "generated_for": "other"}
+{"note": "Stadtfest im Zentrum, gesamte Innenstadt gesperrt", "generated_for": "other"}
+{"note": "recipient name not on intercom or mailboxes", "generated_for": "address_issue"}
+{"note": "customer not at home, Nachbar 3.OG nimmt nicht an", "generated_for": "recipient_absent"}
+{"note": "Customs hold in CGN, Empfänger notification sent via SMS", "generated_for": "customs_hold"}
+{"note": "Empf verweigert, Ware verspätet eingetroffen.", "generated_for": "refused"}
+{"note": "Customs rejected declaration, HS code 8471 invalid", "generated_for": "customs_hold"}
+{"note": "Umreifungsband gerissen, Pkt öffnet sich fast", "generated_for": "damaged"}
+{"note": "Empf. verweigert: nicht mehr benötigt.", "generated_for": "refused"}
+{"note": "Hub Bad Hersfeld Überlastung, Pkt verspätet eingetroffen", "generated_for": "delay"}
+{"note": "Techn Defekt Ladebordwand, Verzögerung bei Entladung", "generated_for": "delay"}
+{"note": "rcpt asked driver to hold pkg until next Monday", "generated_for": "other"}
+{"note": "glass broken inside, box damp, unsafe to deliver", "generated_for": "damaged"}
+{"note": "Hausnr 88 gibts nicht, Strasse endet bei 82", "generated_for": "address_issue"}
+{"note": "Hund im Garten, keiner zu Hause, Benachrichtigung eingeworfen", "generated_for": "recipient_absent"}
+{"note": "Stau A2, time window missed, new delivery attempt tomorrow", "generated_for": "delay"}
+{"note": "Consignee refused to pay customs fee of 42.50 EUR, returning to sender", "generated_for": "customs_hold"}
+{"note": "Zollstelle MUC: Nachweis über Warenwert fehlt, Benachrichtigung raus", "generated_for": "customs_hold"}
+{"note": "Baustelle A8, langer Stau, Resttour abgebrochen", "generated_for": "delay"}
+{"note": "Kunde nicht anzutreffen, Benachrichtigung hingesteckt", "generated_for": "recipient_absent"}
+{"note": "Nachbar verweigert Paketannahme wg Streit mit Empf", "generated_for": "other"}
+{"note": "Haustür verschlossen, Empfänger reagiert nicht auf Anruf", "generated_for": "recipient_absent"}
+{"note": "Refused - Kd hat keine cash fuer COD payment.", "generated_for": "refused"}
+{"note": "Kd refused, keine Lust mehr auf Ware.", "generated_for": "refused"}
+{"note": "Importabgaben verweigert, Pkt geht zrück an Absender", "generated_for": "customs_hold"}
+{"note": "Verweigert - Kunde fordert Expresslieferung war aber Standard.", "generated_for": "refused"}
+{"note": "Strasse umbenannt, alte Bezeichng auf Paket", "generated_for": "address_issue"}
+{"note": "strasse gesperrt near Hbf detour takes 30 min", "generated_for": "other"}
+{"note": "severe storm alert safety stop issued by dispatch", "generated_for": "other"}
+{"note": "Annw. verweigert Paket sieht nass aus.", "generated_for": "refused"}
+{"note": "address is a PO box, physical delivery impossible", "generated_for": "address_issue"}
+{"note": "Kunde laut Nachbar verstorben, Todesfall gemeldet", "generated_for": "other"}
+{"note": "Incorrect HS code on Zollpapiere, held at gateway MUC", "generated_for": "customs_hold"}
+{"note": "Empfänger office closed early, vehicle delay prevented timely arrival", "generated_for": "delay"}
+{"note": "postcode mismatch, delivery city says Hamburg but PLZ is Berlin", "generated_for": "address_issue"}
+{"note": "Refused delivery, client insists on inspection before signing.", "generated_for": "refused"}
+{"note": "Schaumstoff ragt aus Verpackung, Folie zerrissen", "generated_for": "damaged"}
+{"note": "Navigatiion führt ins Feld, Adresse falsch angegeben", "generated_for": "address_issue"}
+{"note": "Pkt stinkt stark nach Chemie, Depotleiter bittet um Überprüfung", "generated_for": "other"}
+{"note": "Karton damaged by rain, Etikett soft, delivered to neighbour #12", "generated_for": "damaged"}
+{"note": "rcpt absent 1st try, left card in mailbox", "generated_for": "recipient_absent"}
+{"note": "Hr Meyer nimmt Pkt nicht an für Nachbar nr 12.", "generated_for": "refused"}
+{"note": "gate code changed need clearance from dispatch", "generated_for": "other"}
+{"note": "Refused by customer, package torn at top.", "generated_for": "refused"}
+{"note": "incomplete address, missing block number in industrial zone", "generated_for": "address_issue"}
+{"note": "Empfängerin verweigert, Karton kaputt.", "generated_for": "refused"}
+{"note": "Parzelle im Schrebergarten ohne genaue Wegbeschreibung", "generated_for": "address_issue"}
+{"note": "Zollbefreiung abgelehnt, Nachverzollung erforderlich", "generated_for": "customs_hold"}
+{"note": "Zoll-Hold: Ursprungszeugnis fehlt im Begleitbeutel", "generated_for": "customs_hold"}
+{"note": "Hausnummer 14B nicht auffindbar, nur 14A und 14C vorhanden", "generated_for": "address_issue"}
+{"note": "Dokumente fehlen für Verzollung, Agentur LEJ benachrichtigt", "generated_for": "customs_hold"}
+{"note": "Polizeikontrolle A7, Fahrerstunden überschritten, Tour gestoppt", "generated_for": "delay"}
+{"note": "Kundin weigert sich zu zahlen NN 45,50 Euro zu teuer.", "generated_for": "refused"}
+{"note": "Duty unpaid by rcpt EUR 12.80, Zollstopp aktiv", "generated_for": "customs_hold"}
+{"note": "label torn, street name partially cut off", "generated_for": "address_issue"}
+{"note": "Zollstelle CGN verlangt persönliche Abholung durch Empfänger", "generated_for": "customs_hold"}
+{"note": "office closed today, recipient absent, will retry monday", "generated_for": "recipient_absent"}
+{"note": "driver max hours reached, remaining pkgs returning to base", "generated_for": "delay"}
+{"note": "address points to a park, no building found", "generated_for": "address_issue"}
+{"note": "heavy traffic A9, delivery window missed, reschedule tmrw", "generated_for": "delay"}
+{"note": "recipient not at home, redirected to local dropoff point", "generated_for": "recipient_absent"}
+{"note": "address incorrect, street exists in Frankfurt and Offenbach", "generated_for": "address_issue"}
+{"note": "Empf. refused pkg, return to sender directly.", "generated_for": "refused"}
+{"note": "invalid street number 0, please verify with sender", "generated_for": "address_issue"}
+{"note": "Firma verweigert Annahme wegen Insolvenz.", "generated_for": "refused"}
+{"note": "Keiner da in WG, 3. Stock niemand erreicht", "generated_for": "recipient_absent"}
+{"note": "Empf. not home, dropoff at Packstation 105", "generated_for": "recipient_absent"}
+{"note": "Customs clearance delay LEJ hub, missing commercial invoice", "generated_for": "customs_hold"}
+{"note": "Customer refused to accept, delivery too late for birthday.", "generated_for": "refused"}
+{"note": "crushed pkg, rcpt demanded inspection before accepting", "generated_for": "damaged"}
+{"note": "Str. existiert nicht in 50667 Köln, PLZ evtl 50668?", "generated_for": "address_issue"}
+{"note": "Empf. refused delivery, wrong order number.", "generated_for": "refused"}
+{"note": "no last name on package label, only first name John", "generated_for": "address_issue"}
+{"note": "pkg arrived late from sorting center, delivery postponed tmrw", "generated_for": "delay"}
+{"note": "customer out, 2nd attempt failed -> return to hub", "generated_for": "recipient_absent"}
+{"note": "Flasche innen zerbrochen, Karton weich & riecht süßlich", "generated_for": "damaged"}
+{"note": "Empf. verweigert Annahme, Annahmefrist abgelaufen meint er.", "generated_for": "refused"}
+{"note": "Store manager refused delivery, wrong address on box.", "generated_for": "refused"}
+{"note": "Adresse ist Baustelle, kein Briefkasten oder Hausnr", "generated_for": "address_issue"}
+{"note": "Refused by Kd, war nicht zuhause bestellt meint er.", "generated_for": "refused"}
+{"note": "Schreibfehler im Straßennamen, Musterstr statt Mühlenstr", "generated_for": "address_issue"}
+{"note": "Namensschild abgenommen, Empf evtl ausgezogen", "generated_for": "address_issue"}
+{"note": "Fr. Weber verweigert Annahme, hat widerrufen.", "generated_for": "refused"}
+{"note": "Formal entry required by local customs, package transferred to bonded warehouse", "generated_for": "customs_hold"}
+{"note": "company moved, new address unknown at site", "generated_for": "address_issue"}
+{"note": "scanner error code 404 soft reset done", "generated_for": "other"}
+{"note": "Knd verweigert postident und unterschrift.", "generated_for": "refused"}
+{"note": "Falsche Tour beladen im Depot, Korrektur dauert 1 Std", "generated_for": "delay"}
+{"note": "Zollguteingang LEJ - EORI Nummer vom Empf. ungültig", "generated_for": "customs_hold"}
+{"note": "Kde nicht da, Annahme verweigert durch Nachbarn hr. meyer? ne, war keiner da", "generated_for": "recipient_absent"}
+{"note": "box squashed during transit, tape broken, item damaged", "generated_for": "damaged"}

@@ -1,0 +1,42 @@
+{"note": "wet package due to rain, barcode scannable, delivered to porch", "category": "damaged", "urgency": "low"}
+{"note": "severe weather warning, all vans held at depot", "category": "delay", "urgency": "medium"}
+{"note": "Customs query: items quantity mismatch between manifest and invoice", "category": "customs_hold", "urgency": "high"}
+{"note": "E. n. da, Nachbar Nr 8b nimmt auch nix an", "category": "recipient_absent", "urgency": "low"}
+{"note": "Zollbefreiung abgelehnt, Nachverzollung erforderlich", "category": "customs_hold", "urgency": "high"}
+{"note": "customer out, 2nd attempt failed -> return to hub", "category": "recipient_absent", "urgency": "low"}
+{"note": "incomplete address, missing block number in industrial zone", "category": "address_issue", "urgency": "medium"}
+{"note": "Parzelle im Schrebergarten ohne genaue Wegbeschreibung", "category": "address_issue", "urgency": "medium"}
+{"note": "Empfänger office closed early, vehicle delay prevented timely arrival", "category": "delay", "urgency": "low"}
+{"note": "recipient away on holiday per neighbour, pkg to shop", "category": "recipient_absent", "urgency": "low"}
+{"note": "Zollamt DUS verlangt Zahlungsnachweis vom Kunder, Benachrichtigungsschein im Kasten", "category": "customs_hold", "urgency": "high"}
+{"note": "scanner batt dead manually logged deliv time", "category": "other", "urgency": "low"}
+{"note": "item broken inside, Empf. macht damage report am MDE", "category": "damaged", "urgency": "high"}
+{"note": "Refused delivery, client insists on inspection before signing.", "category": "refused", "urgency": "medium"}
+{"note": "Techn Defekt Ladebordwand, Verzögerung bei Entladung", "category": "delay", "urgency": "medium"}
+{"note": "another pkg leaked on this parcel needs cleanup", "category": "other", "urgency": "high"}
+{"note": "Kunde laut Nachbar verstorben, Todesfall gemeldet", "category": "other", "urgency": "low"}
+{"note": "rcpt absent 1st try, left card in mailbox", "category": "recipient_absent", "urgency": "low"}
+{"note": "mechanical failure on delivery truck, waiting for tow", "category": "delay", "urgency": "medium"}
+{"note": "Pkt beschädigt kdn will nicht annehmen.", "category": "refused", "urgency": "medium"}
+{"note": "Hub Bad Hersfeld Überlastung, Pkt verspätet eingetroffen", "category": "delay", "urgency": "medium"}
+{"note": "heavy wet stain on bottom, pkg falling apart", "category": "damaged", "urgency": "high"}
+{"note": "Schreibfehler im Straßennamen, Musterstr statt Mühlenstr", "category": "address_issue", "urgency": "medium"}
+{"note": "Empf. refused delivery, wrong order number.", "category": "refused", "urgency": "medium"}
+{"note": "company moved, new address unknown at site", "category": "address_issue", "urgency": "medium"}
+{"note": "Recipient refused COD payment, wants invoice.", "category": "refused", "urgency": "medium"}
+{"note": "Einfuhrabgaben 18,20 EUR offen, Empf. nicht angetroffen, Zollauslieferung gestoppt", "category": "customs_hold", "urgency": "high"}
+{"note": "Recipient refused, said cancelled order yesterday.", "category": "refused", "urgency": "low"}
+{"note": "Zollbeschlagnahme wegen Verdacht auf Markenfälschung, Akte 404", "category": "customs_hold", "urgency": "high"}
+{"note": "Pkt nass geworden durch undichte Decke im Hub FFM", "category": "other", "urgency": "high"}
+{"note": "Zoll-Hold: Ursprungszeugnis fehlt im Begleitbeutel", "category": "customs_hold", "urgency": "high"}
+{"note": "Karton offen, Klebeband gelöst, Empf meint Inhalt unvollständig", "category": "damaged", "urgency": "medium"}
+{"note": "Customer refused Pkt, look damaged.", "category": "refused", "urgency": "medium"}
+{"note": "severe storm alert safety stop issued by dispatch", "category": "other", "urgency": "medium"}
+{"note": "crushed corner, delivered to nr 8 with damage note", "category": "damaged", "urgency": "medium"}
+{"note": "pkg contains live insects depot mgr stopped deliv", "category": "other", "urgency": "high"}
+{"note": "label torn, street name partially cut off", "category": "address_issue", "urgency": "medium"}
+{"note": "address is a PO box, physical delivery impossible", "category": "address_issue", "urgency": "medium"}
+{"note": "Niemand anzutreffen, Pkt geht an Paketshop Bäcker Müller", "category": "recipient_absent", "urgency": "low"}
+{"note": "Aufzug defekt im Hochhaus, Zeitverlust 30min, Zstlg verzögert", "category": "delay", "urgency": "low"}
+{"note": "box severely crushed, item inside rattles, ret to hub", "category": "damaged", "urgency": "high"}
+{"note": "rcpt not home, scanner battery low but recorded absent", "category": "recipient_absent", "urgency": "low"}

@@ -1,0 +1,50 @@
+{"note": "Empf. nicht angetroffen, Benachrichtigungskarte in Briefkasten", "category": "recipient_absent", "urgency": "low", "language": "de"}
+{"note": "nobody home, left w/ neighbour nr 14 (Fr. Schulz)", "category": "recipient_absent", "urgency": "low", "language": "en"}
+{"note": "Kunde nicht da, Nachbar auch nicht -> Pkt zur Filiale Koblenz-Mitte", "category": "recipient_absent", "urgency": "low", "language": "de"}
+{"note": "2. Zustellversuch erfolglos, Empfänger wieder nicht da", "category": "recipient_absent", "urgency": "medium", "language": "de"}
+{"note": "recipient not at home, no safe place, card left", "category": "recipient_absent", "urgency": "low", "language": "en"}
+{"note": "Niemand öffnet, Klingel kaputt?? Karte eingeworfen", "category": "recipient_absent", "urgency": "low", "language": "de"}
+{"note": "rcpt absent 2nd attempt, pkg to pickup pt", "category": "recipient_absent", "urgency": "medium", "language": "en"}
+{"note": "Empfänger nicht da, parcel left at Packstation 112", "category": "recipient_absent", "urgency": "low", "language": "mixed"}
+{"note": "Hausnr fehlt, Straße existiert 2x in Bonn", "category": "address_issue", "urgency": "medium", "language": "de"}
+{"note": "address incomplete - no street number, tel. not reachable", "category": "address_issue", "urgency": "medium", "language": "en"}
+{"note": "Empf. unbekannt verzogen, Nachsendeadresse?", "category": "address_issue", "urgency": "medium", "language": "de"}
+{"note": "Firma existiert nicht mehr an Adresse, Schild abmontiert", "category": "address_issue", "urgency": "medium", "language": "de"}
+{"note": "wrong postcode, 56068 vs 56070, PLZ check needed", "category": "address_issue", "urgency": "medium", "language": "mixed"}
+{"note": "Name nicht am Briefkasten, Mehrfamilienhaus 30 Parteien", "category": "address_issue", "urgency": "medium", "language": "de"}
+{"note": "apt number missing, building has 4 floors", "category": "address_issue", "urgency": "medium", "language": "en"}
+{"note": "Adresse unleserlich, label smudged/wet", "category": "address_issue", "urgency": "medium", "language": "mixed"}
+{"note": "Zoll: Handelsrechnung fehlt, Sendung am Hub LEJ", "category": "customs_hold", "urgency": "high", "language": "de"}
+{"note": "customs hold - commercial invoice missing, CN23 empty", "category": "customs_hold", "urgency": "high", "language": "en"}
+{"note": "import duties unpaid, recipient to pay EUR 34,50", "category": "customs_hold", "urgency": "medium", "language": "en"}
+{"note": "Einfuhrabgaben nicht bezahlt, Empf. informiert", "category": "customs_hold", "urgency": "medium", "language": "de"}
+{"note": "held at customs FRA, HS code missing on docs", "category": "customs_hold", "urgency": "high", "language": "en"}
+{"note": "Zollanmeldung unvollständig, Warenwert fehlt", "category": "customs_hold", "urgency": "high", "language": "de"}
+{"note": "customs: Rechnung fehlt, shipment from UK held", "category": "customs_hold", "urgency": "high", "language": "mixed"}
+{"note": "Karton stark beschädigt, Inhalt sichtbar, nicht zugestellt", "category": "damaged", "urgency": "high", "language": "de"}
+{"note": "box crushed, liquid leaking, kept at depot", "category": "damaged", "urgency": "high", "language": "en"}
+{"note": "Paket nass, Etikett nur teilweise lesbar", "category": "damaged", "urgency": "medium", "language": "de"}
+{"note": "corner dented, contents seem ok, delivered w/ photo", "category": "damaged", "urgency": "low", "language": "en"}
+{"note": "Glasflasche im Pkt zerbrochen, riecht nach Wein", "category": "damaged", "urgency": "high", "language": "de"}
+{"note": "tape opened, possible tampering, photos taken", "category": "damaged", "urgency": "high", "language": "en"}
+{"note": "Verpackung eingerissen, Empf. hat trotzdem angenommen", "category": "damaged", "urgency": "low", "language": "de"}
+{"note": "Annahme verweigert - falsche Bestellung laut Kunde", "category": "refused", "urgency": "low", "language": "de"}
+{"note": "recipient refused, says never ordered this", "category": "refused", "urgency": "low", "language": "en"}
+{"note": "Empf. verweigert Annahme wegen Nachnahmebetrag", "category": "refused", "urgency": "medium", "language": "de"}
+{"note": "refused - customer wont pay COD 89 EUR", "category": "refused", "urgency": "medium", "language": "en"}
+{"note": "Annahme verweigert, Paket sichtbar beschädigt", "category": "refused", "urgency": "medium", "language": "de"}
+{"note": "customer refused, wants to return directly to shop", "category": "refused", "urgency": "low", "language": "en"}
+{"note": "Fahrzeugpanne A61, Tour abgebrochen, Zustellung morgen", "category": "delay", "urgency": "medium", "language": "de"}
+{"note": "van breakdown, route stopped, reschedule tmrw", "category": "delay", "urgency": "medium", "language": "en"}
+{"note": "Stau A3, Zeitfenster nicht haltbar", "category": "delay", "urgency": "low", "language": "de"}
+{"note": "missed line haul connection at Hub Köln, next truck 6am", "category": "delay", "urgency": "medium", "language": "mixed"}
+{"note": "Glatteis, Zustellung in Höhenlagen ausgesetzt", "category": "delay", "urgency": "medium", "language": "de"}
+{"note": "storm warning, deliveries suspended in area", "category": "delay", "urgency": "medium", "language": "en"}
+{"note": "Sortierfehler, Pkt in falscher Tour, morgen neu", "category": "delay", "urgency": "medium", "language": "de"}
+{"note": "express shipment missed connection - delivery promise at risk!!", "category": "delay", "urgency": "high", "language": "en"}
+{"note": "Kunde möchte Wunschtag ändern, ruft Hotline an", "category": "other", "urgency": "low", "language": "de"}
+{"note": "recipient asked to redirect to office address", "category": "other", "urgency": "low", "language": "en"}
+{"note": "Paket zu groß für Packstation, zurück ins Fahrzeug", "category": "other", "urgency": "low", "language": "de"}
+{"note": "dog loose on property, could not enter safely", "category": "other", "urgency": "medium", "language": "en"}
+{"note": "Scanner defekt, Sendung manuell erfasst", "category": "other", "urgency": "low", "language": "de"}
+{"note": "customer requests evening delivery after 18h", "category": "other", "urgency": "low", "language": "en"}

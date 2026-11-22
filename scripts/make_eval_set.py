@@ -15,11 +15,14 @@ CATS = {c.value for c in Category}
 URGS = {u.value for u in Urgency}
 
 
-def make(src: Path, dst: Path, per_category: int) -> None:
+def make(src: Path, dst: Path, per_category: int, exclude: list[Path], seed: int) -> None:
     if dst.exists():
         raise SystemExit(f"{dst} already exists; not overwriting your labels")
     rows = [json.loads(line) for line in src.read_text(encoding="utf-8").splitlines() if line.strip()]
-    rng = random.Random(7)
+    taken = {json.loads(line)["note"] for e in exclude
+             for line in e.read_text(encoding="utf-8").splitlines() if line.strip()}
+    rows = [r for r in rows if r["note"] not in taken]  # never reuse notes from another set
+    rng = random.Random(seed)
     by_cat = collections.defaultdict(list)
     for r in rows:
         by_cat[r["generated_for"]].append(r)
@@ -68,5 +71,10 @@ if __name__ == "__main__":
     p.add_argument("--out", default="data/eval.jsonl")
     p.add_argument("--per-category", type=int, default=15)
     p.add_argument("--check", action="store_true")
+    p.add_argument("--exclude", nargs="*", default=[], help="files whose notes must not be picked again")
+    p.add_argument("--seed", type=int, default=7)
     a = p.parse_args()
-    check(Path(a.out)) if a.check else make(Path(a.src), Path(a.out), a.per_category)
+    if a.check:
+        check(Path(a.out))
+    else:
+        make(Path(a.src), Path(a.out), a.per_category, [Path(e) for e in a.exclude], a.seed)

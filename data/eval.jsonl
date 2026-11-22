@@ -9,7 +9,7 @@
 {"note": "barcode scuffed hand typed tracking nr manually", "category": "other", "urgency": "medium"}
 {"note": "Empf. umgezogen, Nachbar sagt neue Adr unbekannt", "category": "address_issue", "urgency": "medium"}
 {"note": "Kundin weigert sich zu zahlen NN 45,50 Euro zu teuer.", "category": "refused", "urgency": "medium"}
-{"note": "Polizeiabsperrung wg Bombenfund, Strasse voll gesperrt", "category": "other", "urgency": "high"}
+{"note": "Polizeiabsperrung wg Bombenfund, Strasse voll gesperrt", "category": "delay", "urgency": "high"}
 {"note": "Zoll clearing pending: invoice amount unclear, need purchase receipt from Empf", "category": "customs_hold", "urgency": "high"}
 {"note": "Annahme verw., falscher Name auf Paket.", "category": "refused", "urgency": "low"}
 {"note": "Umreifungsband gerissen, Pkt öffnet sich fast", "category": "damaged", "urgency": "medium"}
@@ -69,7 +69,7 @@
 {"note": "police check on Autobahn delay approx 40m", "category": "delay", "urgency": "low"}
 {"note": "Baustelle A8, langer Stau, Resttour abgebrochen", "category": "delay", "urgency": "medium"}
 {"note": "Clearance exception at HUB FRA: EORI No needed from receiver", "category": "customs_hold", "urgency": "high"}
-{"note": "outer carton torn, contents visible, rcpt refused sign", "category": "damaged", "urgency": "high"}
+{"note": "outer carton torn, contents visible, rcpt refused sign", "category": "refused", "urgency": "high"}
 {"note": "office closed permanently company moved away", "category": "address_issue", "urgency": "medium"}
 {"note": "pkg arrived late from sorting center, delivery postponed tmrw", "category": "delay", "urgency": "medium"}
 {"note": "Hausmeister verweigert Annahme für Mieter top 4.", "category": "refused", "urgency": "low"}
@@ -85,7 +85,7 @@
 {"note": "Rcpt verweigert Annahme, pkg crushed.", "category": "refused", "urgency": "medium"}
 {"note": "gate code changed need clearance from dispatch", "category": "other", "urgency": "medium"}
 {"note": "wrong street name on shipping label, recipient contacted?", "category": "address_issue", "urgency": "medium"}
-{"note": "Klingel ohne Namen, Empf. nicht erreichbar per Telefon", "category": "recipient_absent", "urgency": "low"}
+{"note": "Klingel ohne Namen, Empf. nicht erreichbar per Telefon", "category": "address_issue", "urgency": "medium"}
 {"note": "Value misdeclared on CN22, customs requesting proof of purchase", "category": "customs_hold", "urgency": "high"}
 {"note": "high volume peak day, route overloaded, rest postponed", "category": "delay", "urgency": "medium"}
 {"note": "Zeitüberschreitung Fahrzeit, Restpakete gehen zurück ins Depot", "category": "delay", "urgency": "medium"}
